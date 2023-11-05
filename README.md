@@ -1,5 +1,8 @@
 # Data Structure and Algorithms
 
+### list
+- [Big O Notatio](https://github.com/tafhimulkabir/data-structure-and-algorithms/blob/main/big-O/Big-O-Notation.md)
+
 ### Search Algorithms
 
 ### Useful Resource
